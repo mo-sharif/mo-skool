@@ -95,3 +95,7 @@ And you can watch your students earn points from taking your challenges and fini
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+
+# Free Resources for Developers
+https://freecoursesite.com/tag/devops/
+
